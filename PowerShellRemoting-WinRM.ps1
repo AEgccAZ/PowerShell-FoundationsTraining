@@ -8,4 +8,6 @@
 #Default Endpoints requires administrative rights
 #Creating custom endpoints can be a regular user 
 
+#JEA- Just enough administration
+#github.com/powershell/jea
  
